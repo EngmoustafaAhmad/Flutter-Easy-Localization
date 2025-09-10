@@ -66,3 +66,4 @@ dependencies:
   flutter:
     sdk: flutter
   easy_localization: ^3.0.7
+  shared_preferences: ^2.3.3
